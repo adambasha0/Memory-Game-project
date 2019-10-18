@@ -1,0 +1,227 @@
+@media screen and (max-width: 850px) {
+
+    .deck .card  {
+        height: 100px;
+        width:140px;
+    
+    }
+}
+
+@media screen and (max-width: 710px) { 
+    .deck .card  {
+        height: 100px;
+        width:130px;
+    
+    }
+}
+
+
+@media screen and (max-width: 670px) { 
+    .deck .card  {
+        height: 90px;
+        width: 120px;
+    
+    }
+
+    .modal .modal-title {
+        font-size: 1.6rem;
+    }
+
+    .modal-header .close-button {
+        font-size: 1rem;
+            
+    }
+
+    .modal .modal-paragraph {
+        font-size: 1.4rem;
+    }
+    
+    .modal  .playAgain-button {
+        font-size: 1.5rem;
+    }
+
+
+}
+
+@media screen and (max-width: 630px) { 
+    .deck   {
+        width: 500px;
+    
+    }
+    .deck .card  {
+        height: 100px;
+        width: 90px;
+    
+    }
+}
+
+@media screen and (max-width: 480px) { 
+    .deck   {
+        width: 400px;
+    
+    }
+    .deck .card  {
+        height: 80px;
+        width: 70px;
+    
+    }
+
+    
+    .modal .modal-title {
+        font-size: 1.3rem;
+    }
+
+    .modal .modal-paragraph {
+        font-size: 1.2rem;
+    }
+    
+    .modal  .playAgain-button {
+            font-size: 1.3rem;
+    }
+
+}
+
+@media screen and (max-width: 390px) { 
+
+    .deck .card  {
+        height: 70px;
+        width: 60px;
+    
+    }
+    
+    .score-panel {
+        width: 250px;
+ 
+    }
+    
+}
+
+@media screen and (max-width: 340px) { 
+
+    
+    .deck  {
+        height: 450px;
+        width: 500px;
+ 
+    
+    }
+
+
+    .deck .card  {
+        height: 60px;
+        width: 50px;
+    
+    }
+
+    .score-panel {
+        width: 230px;
+ 
+    }
+
+    .modal .modal-title {
+        font-size: 1rem;
+    }
+
+    .modal-header .close-button {
+        font-size: 0.6rem;
+            
+    }
+
+    .modal .modal-paragraph {
+        font-size: 0.8rem;
+    }
+    
+    .modal  .playAgain-button {
+        font-size: 1rem;
+    }
+    
+}
+
+@media screen and (max-width: 290px) { 
+
+    .deck  {
+        height: 300px;
+ 
+    
+    }
+
+    .deck .card  {
+        height: 30px;
+        width: 40px;
+    
+    }
+
+    
+    .modal .modal-title {
+        font-size: 0.7rem;
+    }
+
+    .modal-header .close-button {
+        font-size: 0.5rem;
+            
+    }
+
+    .modal .modal-paragraph {
+        font-size: 0.6rem;
+    }
+    
+    .modal  .playAgain-button {
+        font-size: 0.8rem;
+    }
+    
+}
+
+
+@media screen and (max-width: 250px) { 
+
+    .deck  {
+        height: 250px;
+        width: 180px;
+ 
+    
+    }
+
+    .deck .card  {
+        height: 25px;
+        width: 25px;
+    
+    }
+
+    .score-panel {
+        width: 150px;
+        font-size: 0.5rem;
+ 
+    }
+}
+
+@media screen and (max-width: 185px) { 
+
+    .deck  {
+        height: 250px;
+        width: 180px;
+ 
+    
+    }
+
+    .deck .card  {
+        height: 23px;
+        width: 23px;
+    
+    }
+}
+
+@media screen and (max-width: 175px) { 
+
+    .deck  {
+        height: 250px;
+        width: 180px;
+ 
+    
+    }
+
+    .deck .card  {
+        height: 20px;
+        width: 20px;
+    
+    }
+}
